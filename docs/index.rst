@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/tplink-sign-in-account/">
+
 How to Sign In TP-Link Account?: A Step-By-Step Guide
 ============================================
 .
